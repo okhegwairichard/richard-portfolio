@@ -171,6 +171,7 @@ nav button:hover {
 .contact button {
    width: 204px;
    background: #f8e5a0;
+   color: black;
 }
 .contact button:hover {
    background: #a3861e;
